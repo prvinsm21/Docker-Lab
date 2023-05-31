@@ -1,7 +1,7 @@
 
 FROM node:14
 
-WORKDIR /app/atom/IAP
+WORKDIR /app/atom/
 
 COPY requirements.txt .
 
